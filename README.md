@@ -5,7 +5,7 @@ Data science enthusiast with a strong background in mathematics and statistics. 
 
 ## Projects
 
-### Project 1: [Project Name]
+### Amazon Fine Food Review
 
 A brief description of project 1, including the problem it solves, the data used, the techniques applied, and any key findings or insights.
 
