@@ -7,7 +7,7 @@ Data science enthusiast with a strong background in mathematics and statistics. 
 
 ### Amazon Fine Food Review
 
-A brief description of project 1, including the problem it solves, the data used, the techniques applied, and any key findings or insights.
+This project focuses on sentiment analysis of Amazon Fine Food Reviews using Natural Language Processing (NLP) techniques. The primary goal is to build models to predict whether a review is negative or positive based on its text content. We will be using Bag of Words and N-Gram TFIDF approaches along with Random Forest, Logistic Regression, Naive Bayes, and XGBoost classifiers for the prediction.
 
 ### Project 2: [Project Name]
 
