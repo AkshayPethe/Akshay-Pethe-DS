@@ -25,7 +25,3 @@ A brief description of project 2, including the problem it solves, the data used
 ## Contact Information
 
 You can reach me on LinkedIn at [Akshay Pethe](https://www.linkedin.com/in/akshay-pethe-07b20a161/), or via email at akshay.pethe16@gmail.com.
-
-## Acknowledgments
-
-Acknowledgments to any contributors, libraries, or other resources used in the projects, along with any credits or attributions.
