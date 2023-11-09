@@ -3,6 +3,7 @@ Data Science Enthusiast | Machine Learning Practitioner | Passionate about solvi
 
 <h1 align="center">Hi 👋, I'm Akshay Pethe</h1>
 <h3 align="center">Demystifying Data Science: A Glimpse into My Projects</h3>
+<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-3c919d3b58bdef3f7f42b86c3c9e5479">
 
 - 🔭 I’m currently working on [Chicken Disease Detection with MLOPs and DVC](https://github.com/AkshayPethe/Chicken_Disease_Detection)
 
